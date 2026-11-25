@@ -1,4 +1,4 @@
-﻿# AgentOps - Autonomous Operations Platform
+﻿# IncidentIQ - Autonomous Operations Platform
 
 An enterprise-grade, agentic incident investigation and remediation platform built with Java, Spring Boot, and modern operations tooling.
 
@@ -17,8 +17,8 @@ An enterprise-grade, agentic incident investigation and remediation platform bui
 ## 📁 Repository Structure
 
 `	ext
-AgentOps-java/
-├── AgentOps_code/          # Complete backend source code and services
+IncidentIQ/
+├── IncidentIQ_CODE/          # Complete backend source code and services
 │   ├── agentops/           # Spring Boot application (Controllers, Services, Models, Repositories)
 │   ├── DESIGN.md           # Architecture and system design specifications
 │   ├── PRODUCT.md          # Product overview and requirement details
@@ -39,7 +39,7 @@ AgentOps-java/
 To run the project locally, navigate into the source directory:
 
 `ash
-cd AgentOps_code
+cd IncidentIQ_CODE
 `
 
 ### 1. Prerequisites
@@ -77,3 +77,4 @@ Place your final project report file (PDF, Word Document, or Markdown) in this f
 - [ ] Evaluation & Architecture Diagrams
 
 > Note: Update the main [README.md](../README.md) with direct links if you upload a PDF here or link an external document.
+
